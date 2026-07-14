@@ -45,3 +45,4 @@ npm run dev
   `${{Postgres.DATABASE_URL}}` on the web service.
 - Required env vars on `web`: `DATABASE_URL`, `GEMINI_API_KEY`, `GEMINI_MODEL`,
   `AUTH_PASSWORD`, `AUTH_SECRET`.
+
